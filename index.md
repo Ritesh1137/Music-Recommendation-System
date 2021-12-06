@@ -24,7 +24,7 @@ Track -> Artist -> Album -> Genre 1 , Genre 2 ..... Genre K
 #### Data format 
 In the training data, the format given is:
 
-- user 1 -- item id - ratings , user 2 -- item id - ratings .... user m -- item id - ratings
+- user 1 : item id : ratings , user 2 : item id : ratings .... user m : item id : ratings
 
 - Here, each user has rated x number of items ( which correpond to either track id, album id , artist id or genre id ) and the rating for each one of those items. 
 
