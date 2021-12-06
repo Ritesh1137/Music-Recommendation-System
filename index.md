@@ -24,13 +24,13 @@ Track -> Artist -> Album -> Genre 1 , Genre 2 ..... Genre K
 #### Data format 
 In the training data, the format given is:
 
-- user 1 | item id - ratings , user 2 | item id - ratings .... user m | item id - ratings
+- user 1 -- item id - ratings , user 2 -- item id - ratings .... user m -- item id - ratings
 
 - Here, each user has rated x number of items ( which correpond to either track id, album id , artist id or genre id ) and the rating for each one of those items. 
 
 In the test data, the format given is: 
 
-- user 1 | track id - rating , user 2 | track id - rating .... user n | track id - rating
+- user 1 -- track id - rating , user 2 -- track id - rating .... user n -- track id - rating
 
 - Here, each user is given 6 tracks of which predictions are to be made to check which 3 tracks will the user will like and the 3 tracks he'll dislike. The objective of the system is to predict each user's ratings for their 6 given tracks. 
 
