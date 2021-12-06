@@ -49,5 +49,5 @@ In the test data, the format given is:
 
 
 ### Attributes:
-https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/
-https://developers.google.com/machine-learning/recommendation
+[AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)
+[Google_Developers](https://developers.google.com/machine-learning/recommendation)
