@@ -1,4 +1,7 @@
 ## Music Recommendation System - Final Project AAI 627 - Data Acquisition and Processing I: Big Data
+
+This repo is being constructed to serve as a guide to building recommendation systems. If you want to know [what I learnt from the project, click here](https://github.com/MoronSlayer/Music-Recommendation-System/blob/main/628_final_proj_Prashant_Ritesh.pdf)
+
 How does YouTube know what video you might want to watch next? How does the App Store pick an app just for you? Magic? No, in both cases, an ML-based recommendation model determines how similar videos and apps are to other things you like and then serves up a recommendation.
 Generally, recommendation systems are built using one of two strategies:
 #### content-based filtering :
