@@ -44,7 +44,8 @@ In the test data, the format given is:
 [AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)<br />  \
 [Google_Developers](https://developers.google.com/machine-learning/recommendation)
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
+              
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
               
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
