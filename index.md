@@ -39,6 +39,8 @@ In the test data, the format given is:
 
 -The data is attached to the repo for further clarity.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
+              
 
 
 
