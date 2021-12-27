@@ -9,6 +9,7 @@ Generally, recommendation systems are built using one of two strategies:
 #### collaborative-based filtering : 
 To address some of the limitations of content-based filtering, collaborative filtering uses similarities between users and items simultaneously to provide recommendations. This allows for serendipitous recommendations; that is, collaborative filtering models can recommend an item to user A based on the interests of a similar user B. Furthermore, the embeddings can be learned automatically, without relying on hand-engineering of features. 
 [Neighborhood methods and Latent Factor Methods](https://www.asc.ohio-state.edu/statistics/dmsl//Koren_2009.pdf) are two widely used collaborative based filtering methods.
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### The data used to build the music recommendation system has the following stats 
 
@@ -46,7 +47,4 @@ In the test data, the format given is:
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
               
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
-              
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
