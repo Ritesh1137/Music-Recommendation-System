@@ -11,7 +11,8 @@ To address some of the limitations of content-based filtering, collaborative fil
 [Neighborhood methods and Latent Factor Methods](https://www.asc.ohio-state.edu/statistics/dmsl//Koren_2009.pdf) are two widely used collaborative based filtering methods.
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-### The data used to build the music recommendation system has the following stats 
+### You are going to use the following data to build a music recommendation system with these
+## STATS
 
 Training Data
  - 249K users 
