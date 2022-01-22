@@ -48,12 +48,12 @@ In the test data, the format given is:
 -- Here, each user is given 6 tracks of which predictions are to be made to check which 3 tracks will the user will like and the 3 tracks he'll dislike. The objective of the system is to predict each user's ratings for their 6 given tracks. 
 
 -The data is attached to the repo for further clarity. Git LFS was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github .
-
+<br />  \
 - Fun fact: Git LFS is to be used for file sizes over 50 MB. Facebook generates over 10 Petabytes everyday. Think of the scale of how much data we are gather in this timeline of civilization. [My article on why I chose AI](https://becominghuman.ai/why-i-chose-ai-272a5fcd4cdd) gives a good brief on the scales of data 
 
 
 ### Bibliography :
-[AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)<br />  \
+[AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)
 [Google_Developers](https://developers.google.com/machine-learning/recommendation)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
