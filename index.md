@@ -49,7 +49,7 @@ In the test data, the format given is:
 
 -The data is attached to the repo for further clarity. Git LFS was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github .
 
-- Fun fact: Git LFS is to be used for file sizes over 50 MB . 
+- Fun fact: Git LFS is to be used for file sizes over 50 MB. Facebook generates over 10 Petabytes everyday. Think of the scale of how much data we are gather in this timeline of civilization. [My article on why I chose AI](https://becominghuman.ai/why-i-chose-ai-272a5fcd4cdd) gives a good brief on the scales of data 
 
 
 ### Bibliography :
