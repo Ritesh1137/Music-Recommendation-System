@@ -21,14 +21,14 @@ To address some of the limitations of content-based filtering, collaborative fil
 
 ### Training Data
 
- - 249K users 
- - 296K items 
- - 62M ratings scores
+ -- 249K users 
+ -- 296K items 
+ -- 62M ratings scores
  
 ### Test Data
 
- - 100K test users, 6 tracks per user
- - Test user in the training user set
+ -- 100K test users, 6 tracks per user
+ -- Test user in the training user set
 
 The Music data is stored in a heirarchial structure as : 
 Track -> Artist -> Album -> Genre 1 , Genre 2 ..... Genre K
@@ -37,15 +37,15 @@ Track -> Artist -> Album -> Genre 1 , Genre 2 ..... Genre K
 
 In the training data, the format given is:
 
-- user 1 : item id : ratings , user 2 : item id : ratings .... user m : item id : ratings
+-- user 1 : item id : ratings , user 2 : item id : ratings .... user m : item id : ratings
 
-- Here, each user has rated x number of items ( which correpond to either track id, album id , artist id or genre id ) and the rating for each one of those items. 
+-- Here, each user has rated x number of items ( which correpond to either track id, album id , artist id or genre id ) and the rating for each one of those items. 
 
 In the test data, the format given is: 
 
-- user 1 -- track id - rating , user 2 -- track id - rating .... user n -- track id - rating
+-- user 1 -- track id - rating , user 2 -- track id - rating .... user n -- track id - rating
 
-- Here, each user is given 6 tracks of which predictions are to be made to check which 3 tracks will the user will like and the 3 tracks he'll dislike. The objective of the system is to predict each user's ratings for their 6 given tracks. 
+-- Here, each user is given 6 tracks of which predictions are to be made to check which 3 tracks will the user will like and the 3 tracks he'll dislike. The objective of the system is to predict each user's ratings for their 6 given tracks. 
 
 -The data is attached to the repo for further clarity. Git LFS was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github .
 
