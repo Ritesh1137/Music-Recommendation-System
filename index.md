@@ -13,7 +13,6 @@ Generally, recommendation systems are built using one of two strategies:
 
 To address some of the limitations of content-based filtering, collaborative filtering uses similarities between users and items simultaneously to provide recommendations. This allows for serendipitous recommendations; that is, collaborative filtering models can recommend an item to user A based on the interests of a similar user B. Furthermore, the embeddings can be learned automatically, without relying on hand-engineering of features. 
 [Neighborhood methods and Latent Factor Methods](https://www.asc.ohio-state.edu/statistics/dmsl//Koren_2009.pdf) are two widely used collaborative based filtering methods.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### You are going to use the data to build a music recommendation system with these
 
@@ -47,7 +46,7 @@ In the test data, the format given is:
 
 -- Here, each user is given 6 tracks of which predictions are to be made to check which 3 tracks will the user will like and the 3 tracks he'll dislike. The objective of the system is to predict each user's ratings for their 6 given tracks. 
 
--The data is attached to the repo for further clarity. Git LFS was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github .
+-The data is attached to the repo for further clarity. [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github) was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own .
 <br />  \
 - Fun fact: Git LFS is to be used for file sizes over 50 MB. Facebook generates over 10 Petabytes everyday. Think of the scale of how much data we are gather in this timeline of civilization. [My article on why I chose AI](https://becominghuman.ai/why-i-chose-ai-272a5fcd4cdd) gives a good brief on the scales of data
 
