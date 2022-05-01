@@ -60,12 +60,7 @@ I have implemented the [following models to make the recommendation system](http
 5. Gradient Boosting
 6. Ensemble method combining all previous models - best accuracy 
 
-**There is scope to improvise by leveraging deep learning techniques**
-
-### Bibliography :
-[AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)
-[Google_Developers](https://developers.google.com/machine-learning/recommendation)
-[Stanford](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+**Scope of improvement: leveraging deep learning techniques**
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
               
