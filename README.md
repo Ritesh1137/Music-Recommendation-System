@@ -18,7 +18,7 @@ Improvements to be implemented: <br />
 -using deep learning <br />
 -combining more results to create a more accurate Ensemble method  <br />
 
-[The capabilities of a modern recommendation system](https://www.linkedin.com/posts/deeplearningai_the-batch-tiktoks-recommender-revealed-activity-6877004327668477952-iRtJ)
+[New to recommendation systems ?](https://en.wikipedia.org/wiki/Recommender_system)
 
 Ranked 5/16 -- Kaggle in-class Competition <br />
 LeaderBoard: https://www.kaggle.com/c/2021fall-ee627/leaderboard - Team: LM_10 -  <br />
