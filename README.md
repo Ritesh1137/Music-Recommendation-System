@@ -22,4 +22,3 @@ Improvements to be implemented: <br />
 Ranked 5/16 -- Kaggle in-class Competition <br />
 LeaderBoard: https://www.kaggle.com/c/2021fall-ee627/leaderboard - Team: LM_10 -  <br />
 
-Status : This repo's guided website is in progress. The project's final PDF and code is updated for now to show what has been implemented. 
