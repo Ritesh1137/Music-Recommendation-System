@@ -1,6 +1,6 @@
 ## Music Recommendation System - Final Project AAI 627 - Data Acquisition and Processing I: Big Data
 
-This repo is being constructed to serve as a guide to building recommendation systems. If you want to know [what I learnt from the project, click here](https://github.com/MoronSlayer/Music-Recommendation-System/blob/main/628_final_proj_Prashant_Ritesh.pdf)
+ [Click here for the project report](https://github.com/MoronSlayer/Music-Recommendation-System/blob/main/628_final_proj_Prashant_Ritesh.pdf)
 
 How does YouTube know what video you might want to watch next? How does the App Store pick an app just for you? Magic? No, in both cases, an ML-based recommendation model determines how similar videos and apps are to other things you like and then serves up a recommendation.
 Generally, recommendation systems are built using one of two strategies:
@@ -49,12 +49,23 @@ In the test data, the format given is:
 
 -The data is attached to the repo for further clarity. Git LFS was used to upload large files (train and test datasets), as a person who's interest lies in data, you might need this trick up your sleeve to upload large files of your own https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github .
 <br />  \
-- Fun fact: Git LFS is to be used for file sizes over 50 MB. Facebook generates over 10 Petabytes everyday. Think of the scale of how much data we are gather in this timeline of civilization. [My article on why I chose AI](https://becominghuman.ai/why-i-chose-ai-272a5fcd4cdd) gives a good brief on the scales of data 
+- Fun fact: Git LFS is to be used for file sizes over 50 MB. Facebook generates over 10 Petabytes everyday. Think of the scale of how much data we are gather in this timeline of civilization. [My article on why I chose AI](https://becominghuman.ai/why-i-chose-ai-272a5fcd4cdd) gives a good brief on the scales of data
 
+I have implemented the [following models to make the recommendation system](https://github.com/MoronSlayer/Music-Recommendation-System/blob/main/628_final_proj_Prashant_Ritesh.pdf):
+
+1. Matrix Factorization
+2. Logistic Regression
+3. Decision Trees
+4. Random Forests
+5. Gradient Boosting
+6. Ensemble method combining all previous models - best accuracy 
+
+**There is scope to improvise by leveraging deep learning techniques**
 
 ### Bibliography :
 [AnalyticsIndiamag](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/)
 [Google_Developers](https://developers.google.com/machine-learning/recommendation)
+[Stanford](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ritesh-980" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ritesh-980?trk=profile-badge">Ritesh Panditi</a></div>
               
